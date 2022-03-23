@@ -1,0 +1,13 @@
+*.pyc
+*.pickle
+*.cache
+*.dly
+*.csv
+*.png
+*.swp
+*.tar.gz
+.pytest_cache
+.idea/
+data/
+.ipynb_checkpoints
+__pycache__/
