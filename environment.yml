@@ -1,0 +1,16 @@
+name: turtles
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - tqdm
+  - scikit-learn
+  - pytest
+  - jupyterlab
+  - ipython
+  - wfdb
+  - jupyter_contrib_nbextensions
+  - jupyter_nbextensions_configurator
